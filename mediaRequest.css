@@ -1,0 +1,46 @@
+@media only screen and (max-width : 1920px) {
+	p{font-size: 2.75em ;
+		background-color: red;}/* Увеличение экрана 80%*/
+}
+ @media only screen and (max-width : 1680px) {
+	p{font-size: 2.60em;
+	 background-color: blue;} /* Увеличение экрана 90%*/
+ } 
+@media only screen and (max-width : 1366px) {
+	p{font-size: 2.45em; 
+		background-color: red;} /* Увеличение экрана 100%*/
+} 
+@media only screen and (max-width : 1280px) {
+	p{font-size: 2.30em;
+	background-color: yellow; } /* Увеличение экрана 150%*/
+}
+ @media only screen and (max-width : 1024px) {
+	p{font-size: 2.15em
+		background-color: black;
+	 }
+ } 
+@media only screen and (max-width : 800px) {
+	p{font-size: 2em; 
+		background-color: violet;} /* Увеличение экрана 175%*/
+} 
+@media only screen and (max-width : 768px) {
+	p{font-size:1.75em;
+		background-color: green;} /* Увеличение экрана 200%*/
+} 
+@media only screen and (max-width : 600px) {
+	p{font-size: 1.70em;
+		background-color: orange;} /* Увеличение экрана 250%*/
+} 
+@media only screen and (max-width : 533px) {
+	p{font-size: 1.65em;
+	background-color: brown; } /* Увеличение экрана 300%*/
+} 
+@media only screen and (max-width : 360px) {
+	p{font-size: 1.60em; 
+		background-color: gray;} /* Увеличение экрана 400%*/
+} 
+@media only screen and (max-width : 320px) {
+	p{font-size: 1.55em;
+	 background-color: purple; } /* Увеличение экрана 500%*/
+} 
+	
